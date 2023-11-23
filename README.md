@@ -5,6 +5,10 @@ Fetch Api ile veri çekerek Javascriptte hazırlandı.
 
 Proje gif'ini inceleyebilirsiniz;
 
+Screen;
+
+
 ![](./images/mobile.gif)
 
 
+# ike-a
